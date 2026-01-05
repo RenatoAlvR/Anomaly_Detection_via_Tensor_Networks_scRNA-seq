@@ -1,5 +1,5 @@
 import numpy as np
-
+#This test is just for understanding what a Matrix Product State (MPS) is
 # --- CONFIGURATION ---
 num_genes = 5        # Number of features (genes)
 physical_dim = 2     # Gene states: 0 (Off) or 1 (On)
